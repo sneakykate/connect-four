@@ -1,0 +1,28 @@
+
+.blackDot {
+    height: 22px;
+    width: 22px;
+    background-color: #000;
+    border-radius: 50%;
+    display: inline-block;
+  }
+
+
+  .redDot {
+    height: 22px;
+    width: 22px;
+    background-color: red;
+    border-radius: 50%;
+    display: inline-block;
+  }
+
+
+  .slot {
+    height: 25px;
+    width: 25px;
+    border-color: rgb(204, 195, 28);
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    vertical-align: top;
+  }
